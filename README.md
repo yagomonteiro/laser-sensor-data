@@ -18,7 +18,7 @@ A partir dessas leituras, é possível realizar a **geração de nuvens de ponto
 
 O modelo no CoppeliaSim exporta os dados do sensor em formato **CSV**, como os disponíveis na pasta `data/`.
 
-Na simulação, o sensor está configurado para pegar 100 amostras dentro do campo de visão de 120º. A taxa de amostragem dos valores não foi observada.
+Na simulação, o sensor está configurado para pegar 100 amostras dentro do campo de visão de 120 graus. A taxa de amostragem dos valores não foi observada.
 
 - Cada **linha do CSV** corresponde a uma varredura completa do sensor.  
 - Cada **coluna** representa a distância medida por um feixe específico.  
